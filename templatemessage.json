@@ -7,10 +7,7 @@
       "name": "Template testing",
       "description": "-",
       "sheet": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTQf5FK4ezvWInHbKFf9BiLpZpoQ3RCggNh1vFy9IyOsssuT_wdZGIpqxP8-uivVE6FBh1qMNLEcCeE/pub?gid=0&single=true&output=csv"
-    }
-  
-  ],
-  "accounts": [
+    },
     {
       "id": "Trend For NamtanFilm VN",
       "name": "Trend For NamtanFilm VN",
@@ -19,7 +16,8 @@
     }
   
   ],
+  
   "version": "1.0"
-
 }
+
 
