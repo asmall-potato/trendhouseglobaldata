@@ -10,6 +10,16 @@
     }
   
   ],
+  "accounts": [
+    {
+      "id": "Trend For NamtanFilm VN",
+      "name": "Trend For NamtanFilm VN",
+      "description": "-",
+      "sheet": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRXTUwHKCy-uvfvslKaE3nVlJXrgEWlemMtRAYAbijmH1JcwwiBLhIsWGpAR1C2iw-CnaQ_0PhEjuZk/pub?gid=0&single=true&output=csv"
+    }
+  
+  ],
   "version": "1.0"
 
 }
+
